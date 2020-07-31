@@ -4,7 +4,7 @@ Djangoで、記事モデルの関連記事をサジェストするサンプル�
 ## 使い方
 ```
 https://github.com/naritotakizawa/django-suggest-posts4
-cd django-suggest-posts
+cd django-suggest-posts4
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
